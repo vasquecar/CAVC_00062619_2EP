@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cavas\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cavas\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SourceCode1.1338852229.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cavas\Desktop\SourceCode1" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SourceCode1" t="IncludeRecursive">
+        <e p="ADDRESS.cs" t="Include" />
+        <e p="admin.cs" t="Include" />
+        <e p="admin.Designer.cs" t="Include" />
+        <e p="admin.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="APPORDER.cs" t="Include" />
+        <e p="APPUSER.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BUSINESS.cs" t="Include" />
+        <e p="Conexion.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="password.cs" t="Include" />
+        <e p="password.Designer.cs" t="Include" />
+        <e p="password.resx" t="Include" />
+        <e p="PRODUCT.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SourceCode1.csproj" t="IncludeRecursive" />
+        <e p="start.cs" t="Include" />
+        <e p="start.Designer.cs" t="Include" />
+        <e p="start.resx" t="Include" />
+        <e p="user.cs" t="Include" />
+        <e p="user.Designer.cs" t="Include" />
+        <e p="user.resx" t="Include" />
+      </e>
+      <e p="SourceCode1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
